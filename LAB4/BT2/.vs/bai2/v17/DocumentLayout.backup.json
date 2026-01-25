@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\bai2\\bai2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C2C3CB-6D2C-4576-910E-5D65661B2FF2}|testbai2\\testbai2.csproj|c:\\n\u0103m cu\u1ED1i\\test\\lab5\\bai2\\bai2\\testbai2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C2C3CB-6D2C-4576-910E-5D65661B2FF2}|testbai2\\testbai2.csproj|solutionrelative:testbai2\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11062F38-CB03-4E8F-80D1-795297AFC498}|bai2\\bai2.csproj|c:\\n\u0103m cu\u1ED1i\\test\\lab5\\bai2\\bai2\\bai2\\powerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11062F38-CB03-4E8F-80D1-795297AFC498}|bai2\\bai2.csproj|solutionrelative:bai2\\powerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\bai2\\bai2\\testbai2\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "testbai2\\UnitTest1.cs",
+              "ToolTip": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\bai2\\bai2\\testbai2\\UnitTest1.cs*",
+              "RelativeToolTip": "testbai2\\UnitTest1.cs*",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswDMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:52:46.486Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PowerHelper.cs",
+              "DocumentMoniker": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\bai2\\bai2\\bai2\\PowerHelper.cs",
+              "RelativeDocumentMoniker": "bai2\\PowerHelper.cs",
+              "ToolTip": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\bai2\\bai2\\bai2\\PowerHelper.cs",
+              "RelativeToolTip": "bai2\\PowerHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:50:16.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

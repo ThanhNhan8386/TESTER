@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\bai3\\bai3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DF01F2-CDCE-4463-8104-04D5104998DC}|TestProject1\\testbai3.csproj|c:\\n\u0103m cu\u1ED1i\\test\\lab5\\bai3\\bai3\\testproject1\\radixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7DF01F2-CDCE-4463-8104-04D5104998DC}|TestProject1\\testbai3.csproj|solutionrelative:testproject1\\radixtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F463F0E6-D696-4C4F-8439-1B38346D32A4}|bai3\\bai3.csproj|c:\\n\u0103m cu\u1ED1i\\test\\lab5\\bai3\\bai3\\bai3\\radix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F463F0E6-D696-4C4F-8439-1B38346D32A4}|bai3\\bai3.csproj|solutionrelative:bai3\\radix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7DF01F2-CDCE-4463-8104-04D5104998DC}|TestProject1\\testbai3.csproj|c:\\n\u0103m cu\u1ED1i\\test\\lab5\\bai3\\bai3\\testproject1\\testbai3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B7DF01F2-CDCE-4463-8104-04D5104998DC}|TestProject1\\testbai3.csproj|solutionrelative:testproject1\\testbai3.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "testbai3",
+              "DocumentMoniker": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\bai3\\bai3\\TestProject1\\testbai3.csproj",
+              "RelativeDocumentMoniker": "TestProject1\\testbai3.csproj",
+              "ToolTip": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\bai3\\bai3\\TestProject1\\testbai3.csproj",
+              "RelativeToolTip": "TestProject1\\testbai3.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-20T07:02:27.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RadixTests.cs",
+              "DocumentMoniker": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\bai3\\bai3\\TestProject1\\RadixTests.cs",
+              "RelativeDocumentMoniker": "TestProject1\\RadixTests.cs",
+              "ToolTip": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\bai3\\bai3\\TestProject1\\RadixTests.cs",
+              "RelativeToolTip": "TestProject1\\RadixTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T07:00:41.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Radix.cs",
+              "DocumentMoniker": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\bai3\\bai3\\bai3\\Radix.cs",
+              "RelativeDocumentMoniker": "bai3\\Radix.cs",
+              "ToolTip": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\bai3\\bai3\\bai3\\Radix.cs",
+              "RelativeToolTip": "bai3\\Radix.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:58:51.463Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

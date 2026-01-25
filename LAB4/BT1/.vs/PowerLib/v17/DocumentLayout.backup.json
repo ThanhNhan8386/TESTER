@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\PowerLib\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F1C56F-595A-4C23-AF1E-98191D73807E}|PowerLib.Tests\\PowerLib.Tests.csproj|c:\\n\u0103m cu\u1ED1i\\test\\lab5\\powerlib\\powerlib.tests\\powertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8F1C56F-595A-4C23-AF1E-98191D73807E}|PowerLib.Tests\\PowerLib.Tests.csproj|solutionrelative:powerlib.tests\\powertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8F1C56F-595A-4C23-AF1E-98191D73807E}|PowerLib.Tests\\PowerLib.Tests.csproj|c:\\n\u0103m cu\u1ED1i\\test\\lab5\\powerlib\\powerlib.tests\\powerlib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E8F1C56F-595A-4C23-AF1E-98191D73807E}|PowerLib.Tests\\PowerLib.Tests.csproj|solutionrelative:powerlib.tests\\powerlib.tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07F82234-BAE5-44C5-98A2-9605602F8FA4}|PowerLib\\PowerLib.csproj|c:\\n\u0103m cu\u1ED1i\\test\\lab5\\powerlib\\powerlib\\powerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{07F82234-BAE5-44C5-98A2-9605602F8FA4}|PowerLib\\PowerLib.csproj|solutionrelative:powerlib\\powerhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PowerLib.Tests",
+              "DocumentMoniker": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\PowerLib\\PowerLib.Tests\\PowerLib.Tests.csproj",
+              "RelativeDocumentMoniker": "PowerLib.Tests\\PowerLib.Tests.csproj",
+              "ToolTip": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\PowerLib\\PowerLib.Tests\\PowerLib.Tests.csproj*",
+              "RelativeToolTip": "PowerLib.Tests\\PowerLib.Tests.csproj*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-20T06:37:04.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PowerTests.cs",
+              "DocumentMoniker": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\PowerLib\\PowerLib.Tests\\PowerTests.cs",
+              "RelativeDocumentMoniker": "PowerLib.Tests\\PowerTests.cs",
+              "ToolTip": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\PowerLib\\PowerLib.Tests\\PowerTests.cs",
+              "RelativeToolTip": "PowerLib.Tests\\PowerTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:35:54.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PowerHelper.cs",
+              "DocumentMoniker": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\PowerLib\\PowerLib\\PowerHelper.cs",
+              "RelativeDocumentMoniker": "PowerLib\\PowerHelper.cs",
+              "ToolTip": "C:\\N\u0102M CU\u1ED0I\\TEST\\lab5\\PowerLib\\PowerLib\\PowerHelper.cs",
+              "RelativeToolTip": "PowerLib\\PowerHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T06:32:50.31Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
